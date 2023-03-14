@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Field
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on any data science/ analyst/ engineering projects
+- 🌱 My tableau: https://public.tableau.com/app/profile/cliff3467
 - 📫 How to reach me cliffsiu39@gmail.com.
 
 <!---
